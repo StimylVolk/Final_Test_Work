@@ -144,3 +144,6 @@ void PrintArray(string[] array)
 
 5.  ### Скриншот коммитов для подтверждения.
 
+
+![](Commit.png)
+
